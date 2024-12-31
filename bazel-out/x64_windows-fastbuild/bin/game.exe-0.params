@@ -1,0 +1,13 @@
+/nologo
+/OUT:bazel-out/x64_windows-fastbuild/bin/game.exe
+bazel-out/x64_windows-fastbuild/bin/_objs/game/main.obj
+/SUBSYSTEM:CONSOLE
+/VERBOSE
+/LIBPATH:library/SFML/lib
+sfml-graphics.lib
+sfml-window.lib
+sfml-system.lib
+/MACHINE:X64
+/DEFAULTLIB:msvcrt.lib
+/DEBUG:FASTLINK
+/INCREMENTAL:NO

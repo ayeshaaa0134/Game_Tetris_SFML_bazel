@@ -1,0 +1,5 @@
+local_repository
+(
+    name = "sfml",
+    path = "C:/Users/POWER-ON/Desktop/game/library/SFML",
+)

@@ -1,0 +1,28 @@
+cc_binary(
+    name = "game",
+    srcs = ["main.cpp"],
+    includes = [
+        "library/SFML/include"
+    ],
+    deps = [
+        ":sfml_headers",  # Reference the SFML headers library
+    ],
+    linkstatic = True,
+    linkopts = [
+        "/VERBOSE",
+        "/LIBPATH:library/SFML/lib",  # Path to the SFML libraries
+        "sfml-graphics.lib",
+        "sfml-window.lib",
+        "sfml-system.lib",
+    ],
+)
+
+cc_library(
+    name = "sfml_headers",
+    hdrs = glob([
+        "library/SFML/include/SFML/**/*.hpp",
+        "library/SFML/include/SFML/**/*.inl",
+    ]),
+    includes = ["library/SFML/include"],
+    visibility = ["//visibility:public"],
+)
