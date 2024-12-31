@@ -189,31 +189,5 @@ Note: including file:    C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_ma
 Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Graphics/Sprite.hpp
 Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Graphics/Text.hpp
 Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Graphics/VertexBuffer.hpp
-Note: including file: C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio.hpp
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/InputSoundFile.hpp
-Note: including file:   C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/Export.hpp
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/Listener.hpp
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/Music.hpp
-Note: including file:   C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/SoundStream.hpp
-Note: including file:    C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/SoundSource.hpp
-Note: including file:     C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/AlResource.hpp
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/OutputSoundFile.hpp
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/Sound.hpp
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/SoundBuffer.hpp
-Note: including file:   C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\set
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/SoundBufferRecorder.hpp
-Note: including file:   C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/SoundRecorder.hpp
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/SoundFileFactory.hpp
-Note: including file:   C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/SoundFileFactory.inl
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/SoundFileReader.hpp
-Note: including file:  C:\users\power-on\_bazel_power-on\dtj4wgos\execroot\_main\library\SFML\include\SFML/Audio/SoundFileWriter.hpp
-Note: including file: C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\iostream
+Note: including file: C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\sstream
 Note: including file:  C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\istream
-Note: including file: C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\fstream
-Note: including file:  C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\__msvc_filebuf.hpp
-Note: including file: C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\unordered_map
-Note: including file:  C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\xhash
-Note: including file:   C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\list
-Note: including file:   C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\xbit_ops.h
-Note: including file: C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\array
-Note: including file: C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include\functional

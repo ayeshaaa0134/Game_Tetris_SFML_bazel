@@ -9,55 +9,10 @@ Searching libraries
       Found "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) bool __cdecl sf::operator!=(class sf::Color const &,class sf::Color const &)" (__imp_??9sf@@YA_NAEBVColor@0@0@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: __cdecl sf::Vertex::Vertex(class sf::Vector2<float> const &,class sf::Color const &)" (__imp_??0Vertex@sf@@QEAA@AEBV?$Vector2@M@1@AEBVColor@1@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: __cdecl sf::VertexArray::VertexArray(enum sf::PrimitiveType,unsigned __int64)" (__imp_??0VertexArray@sf@@QEAA@W4PrimitiveType@1@_K@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: class sf::Vertex & __cdecl sf::VertexArray::operator[](unsigned __int64)" (__imp_??AVertexArray@sf@@QEAAAEAVVertex@1@_K@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::VertexArray::append(class sf::Vertex const &)" (__imp_?append@VertexArray@sf@@QEAAXAEBVVertex@2@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: virtual __cdecl sf::VertexArray::~VertexArray(void)" (__imp_??1VertexArray@sf@@UEAA@XZ)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::Shape::setTexture(class sf::Texture const *,bool)" (__imp_?setTexture@Shape@sf@@QEAAXPEBVTexture@2@_N@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QEAAXM@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)
@@ -70,12 +25,6 @@ Searching libraries
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::RectangleShape::getSize(void)const " (__imp_?getSize@RectangleShape@sf@@QEBAAEBV?$Vector2@M@2@XZ)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)
@@ -93,30 +42,6 @@ Searching libraries
       Found "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: virtual class sf::Vector2<unsigned int> __cdecl sf::RenderWindow::getSize(void)const " (__imp_?getSize@RenderWindow@sf@@UEBA?AV?$Vector2@I@2@XZ)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getLocalBounds(void)const " (__imp_?getLocalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
@@ -129,28 +54,13 @@ Searching libraries
       Found "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::Text::setStyle(unsigned int)" (__imp_?setStyle@Text@sf@@QEAAXI@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Text::getLocalBounds(void)const " (__imp_?getLocalBounds@Text@sf@@QEBA?AV?$Rect@M@2@XZ)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::Text &&)" (__imp_??0Text@sf@@QEAA@$$QEAV01@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
@@ -159,49 +69,7 @@ Searching libraries
       Found "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)
         Referenced in main.obj
         Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: static class sf::Color const sf::Color::Blue" (__imp_?Blue@Color@sf@@2V12@B)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
-      Found "__declspec(dllimport) public: static class sf::Color const sf::Color::Transparent" (__imp_?Transparent@Color@sf@@2V12@B)
-        Referenced in main.obj
-        Loaded sfml-graphics.lib(sfml-graphics-2.dll)
       Found __IMPORT_DESCRIPTOR_sfml-graphics-2
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
-        Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
         Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
         Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
         Referenced in sfml-graphics.lib(sfml-graphics-2.dll)
@@ -234,9 +102,6 @@ Searching libraries
       Found "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
         Referenced in main.obj
         Loaded sfml-window.lib(sfml-window-2.dll)
-      Found "__declspec(dllimport) public: static class sf::VideoMode __cdecl sf::VideoMode::getDesktopMode(void)" (__imp_?getDesktopMode@VideoMode@sf@@SA?AV12@XZ)
-        Referenced in main.obj
-        Loaded sfml-window.lib(sfml-window-2.dll)
       Found "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
         Referenced in main.obj
         Loaded sfml-window.lib(sfml-window-2.dll)
@@ -246,7 +111,7 @@ Searching libraries
       Found "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
         Referenced in main.obj
         Loaded sfml-window.lib(sfml-window-2.dll)
-      Found "__declspec(dllimport) public: void __cdecl sf::Window::setPosition(class sf::Vector2<int> const &)" (__imp_?setPosition@Window@sf@@QEAAXAEBV?$Vector2@H@2@@Z)
+      Found "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
         Referenced in main.obj
         Loaded sfml-window.lib(sfml-window-2.dll)
       Found "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
@@ -259,19 +124,15 @@ Searching libraries
         Referenced in sfml-window.lib(sfml-window-2.dll)
         Referenced in sfml-window.lib(sfml-window-2.dll)
         Referenced in sfml-window.lib(sfml-window-2.dll)
-        Referenced in sfml-window.lib(sfml-window-2.dll)
         Loaded sfml-window.lib(sfml-window-2.dll)
       Found sfml-window-2_NULL_THUNK_DATA
         Referenced in sfml-window.lib(sfml-window-2.dll)
         Loaded sfml-window.lib(sfml-window-2.dll)
     Searching library\SFML\lib\sfml-system.lib:
-      Found "__declspec(dllimport) public: int __cdecl sf::Time::asMilliseconds(void)const " (__imp_?asMilliseconds@Time@sf@@QEBAHXZ)
+      Found "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
         Referenced in main.obj
         Loaded sfml-system.lib(sfml-system-2.dll)
       Found "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)
-        Referenced in main.obj
-        Loaded sfml-system.lib(sfml-system-2.dll)
-      Found "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ)
         Referenced in main.obj
         Loaded sfml-system.lib(sfml-system-2.dll)
       Found "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ)
@@ -293,24 +154,17 @@ Searching libraries
         Referenced in sfml-system.lib(sfml-system-2.dll)
         Referenced in sfml-system.lib(sfml-system-2.dll)
         Referenced in sfml-system.lib(sfml-system-2.dll)
-        Referenced in sfml-system.lib(sfml-system-2.dll)
         Loaded sfml-system.lib(sfml-system-2.dll)
       Found sfml-system-2_NULL_THUNK_DATA
         Referenced in sfml-system.lib(sfml-system-2.dll)
         Loaded sfml-system.lib(sfml-system-2.dll)
     Searching C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\lib\x64\msvcrt.lib:
-      Found "void __cdecl `eh vector destructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *))" (??_M@YAXPEAX_K1P6AX0@Z@Z)
-        Referenced in main.obj
-        Loaded msvcrt.lib(ehvecdtr.obj)
       Found "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
         Referenced in main.obj
         Loaded msvcrt.lib(new_scalar.obj)
       Found "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
         Referenced in main.obj
         Loaded msvcrt.lib(delete_scalar_size.obj)
-      Found atexit
-        Referenced in main.obj
-        Loaded msvcrt.lib(utility.obj)
       Found __GSHandlerCheck
         Referenced in main.obj
         Loaded msvcrt.lib(gshandler.obj)
@@ -333,40 +187,28 @@ Searching libraries
         Loaded msvcrt.lib(fltused.obj)
       Found mainCRTStartup
         Loaded msvcrt.lib(exe_main.obj)
-      Found __guard_dispatch_icall_fptr
-        Referenced in msvcrt.lib(ehvecdtr.obj)
-        Referenced in msvcrt.lib(utility.obj)
-        Referenced in msvcrt.lib(exe_main.obj)
-        Loaded msvcrt.lib(guard_support.obj)
       Found "void __cdecl __scrt_throw_std_bad_alloc(void)" (?__scrt_throw_std_bad_alloc@@YAXXZ)
         Referenced in msvcrt.lib(new_scalar.obj)
         Loaded msvcrt.lib(throw_bad_alloc.obj)
       Found "void __cdecl operator delete(void *)" (??3@YAXPEAX@Z)
         Referenced in msvcrt.lib(delete_scalar_size.obj)
         Loaded msvcrt.lib(delete_scalar.obj)
-      Found __isa_available_init
-        Referenced in msvcrt.lib(utility.obj)
-        Loaded msvcrt.lib(cpu_disp.obj)
-      Found _get_startup_argv_mode
-        Referenced in msvcrt.lib(utility.obj)
-        Referenced in msvcrt.lib(exe_main.obj)
-        Loaded msvcrt.lib(argv_mode.obj)
-      Found __scrt_is_ucrt_dll_in_use
-        Referenced in msvcrt.lib(utility.obj)
-        Loaded msvcrt.lib(ucrt_detection.obj)
-      Found __scrt_fastfail
-        Referenced in msvcrt.lib(utility.obj)
-        Referenced in msvcrt.lib(exe_main.obj)
-        Loaded msvcrt.lib(utility_desktop.obj)
       Found __report_gsfailure
         Referenced in msvcrt.lib(amdsecgs.obj)
         Loaded msvcrt.lib(gs_report.obj)
+      Found atexit
+        Referenced in msvcrt.lib(exe_main.obj)
+        Loaded msvcrt.lib(utility.obj)
       Found __security_init_cookie
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded msvcrt.lib(gs_support.obj)
       Found _matherr
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded msvcrt.lib(matherr.obj)
+      Found _get_startup_argv_mode
+        Referenced in msvcrt.lib(exe_main.obj)
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded msvcrt.lib(argv_mode.obj)
       Found _get_startup_commit_mode
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded msvcrt.lib(commit_mode.obj)
@@ -403,6 +245,9 @@ Searching libraries
       Found __scrt_get_dyn_tls_dtor_callback
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded msvcrt.lib(dyn_tls_dtor.obj)
+      Found __scrt_is_managed_app
+        Referenced in msvcrt.lib(exe_main.obj)
+        Loaded msvcrt.lib(utility_desktop.obj)
       Found _RTC_Initialize
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded msvcrt.lib(initsect.obj)
@@ -421,6 +266,17 @@ Processed /DEFAULTLIB:ucrt.lib
  Processed /DISALLOWLIB:ucrtd.lib
  Processed /DISALLOWLIB:libucrt.lib
  Processed /DISALLOWLIB:libucrtd.lib
+      Found __guard_dispatch_icall_fptr
+        Referenced in msvcrt.lib(exe_main.obj)
+        Referenced in msvcrt.lib(utility.obj)
+        Referenced in msvcrt.lib(initsect.obj)
+        Loaded msvcrt.lib(guard_support.obj)
+      Found __isa_available_init
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded msvcrt.lib(cpu_disp.obj)
+      Found __scrt_is_ucrt_dll_in_use
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded msvcrt.lib(ucrt_detection.obj)
       Found _guard_dispatch_icall_nop
         Referenced in msvcrt.lib(guard_support.obj)
         Loaded msvcrt.lib(guard_dispatch.obj)
@@ -435,9 +291,6 @@ Processed /DEFAULTLIB:ucrt.lib
         Referenced in main.obj
         Loaded msvcprt.lib(MSVCP140.dll)
       Found "void __cdecl std::_Xout_of_range(char const *)" (?_Xout_of_range@std@@YAXPEBD@Z)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "bool __cdecl std::uncaught_exception(void)" (?uncaught_exception@std@@YA_NXZ)
         Referenced in main.obj
         Loaded msvcprt.lib(MSVCP140.dll)
       Found _Mbrtowc
@@ -461,76 +314,7 @@ Processed /DEFAULTLIB:ucrt.lib
       Found "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(bool)" (?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z)
         Referenced in main.obj
         Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (__imp_?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "void __cdecl std::_Xbad_function_call(void)" (?_Xbad_function_call@std@@YAXXZ)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
-      Found "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cerr" (__imp_?cerr@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
-        Referenced in main.obj
-        Loaded msvcprt.lib(MSVCP140.dll)
       Found __IMPORT_DESCRIPTOR_MSVCP140
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
-        Referenced in msvcprt.lib(MSVCP140.dll)
         Referenced in msvcprt.lib(MSVCP140.dll)
         Referenced in msvcprt.lib(MSVCP140.dll)
         Referenced in msvcprt.lib(MSVCP140.dll)
@@ -548,36 +332,23 @@ Processed /DEFAULTLIB:ucrt.lib
     Searching C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\lib\x64\OLDNAMES.lib:
     Searching C:\Program Files (x86)\Windows Kits\10\\lib\10.0.22621.0\\um\x64\kernel32.lib:
       Found __imp_RtlCaptureContext
-        Referenced in msvcrt.lib(utility_desktop.obj)
         Referenced in msvcrt.lib(gs_report.obj)
+        Referenced in msvcrt.lib(utility_desktop.obj)
         Loaded kernel32.lib(KERNEL32.dll)
       Found __imp_RtlLookupFunctionEntry
-        Referenced in msvcrt.lib(utility_desktop.obj)
         Referenced in msvcrt.lib(gs_report.obj)
+        Referenced in msvcrt.lib(utility_desktop.obj)
         Loaded kernel32.lib(KERNEL32.dll)
       Found __imp_RtlVirtualUnwind
-        Referenced in msvcrt.lib(utility_desktop.obj)
         Referenced in msvcrt.lib(gs_report.obj)
-        Loaded kernel32.lib(KERNEL32.dll)
-      Found __imp_IsDebuggerPresent
         Referenced in msvcrt.lib(utility_desktop.obj)
         Loaded kernel32.lib(KERNEL32.dll)
       Found __imp_UnhandledExceptionFilter
-        Referenced in msvcrt.lib(utility_desktop.obj)
         Referenced in msvcrt.lib(gs_report.obj)
+        Referenced in msvcrt.lib(utility_desktop.obj)
         Loaded kernel32.lib(KERNEL32.dll)
       Found __imp_SetUnhandledExceptionFilter
-        Referenced in msvcrt.lib(utility_desktop.obj)
         Referenced in msvcrt.lib(gs_report.obj)
-        Loaded kernel32.lib(KERNEL32.dll)
-      Found __imp_GetStartupInfoW
-        Referenced in msvcrt.lib(utility_desktop.obj)
-        Loaded kernel32.lib(KERNEL32.dll)
-      Found __imp_IsProcessorFeaturePresent
-        Referenced in msvcrt.lib(utility_desktop.obj)
-        Referenced in msvcrt.lib(gs_report.obj)
-        Loaded kernel32.lib(KERNEL32.dll)
-      Found __imp_GetModuleHandleW
         Referenced in msvcrt.lib(utility_desktop.obj)
         Loaded kernel32.lib(KERNEL32.dll)
       Found __imp_GetCurrentProcess
@@ -585,6 +356,10 @@ Processed /DEFAULTLIB:ucrt.lib
         Loaded kernel32.lib(KERNEL32.dll)
       Found __imp_TerminateProcess
         Referenced in msvcrt.lib(gs_report.obj)
+        Loaded kernel32.lib(KERNEL32.dll)
+      Found __imp_IsProcessorFeaturePresent
+        Referenced in msvcrt.lib(gs_report.obj)
+        Referenced in msvcrt.lib(utility_desktop.obj)
         Loaded kernel32.lib(KERNEL32.dll)
       Found __imp_QueryPerformanceCounter
         Referenced in msvcrt.lib(gs_support.obj)
@@ -600,6 +375,15 @@ Processed /DEFAULTLIB:ucrt.lib
         Loaded kernel32.lib(KERNEL32.dll)
       Found __imp_InitializeSListHead
         Referenced in msvcrt.lib(tncleanup.obj)
+        Loaded kernel32.lib(KERNEL32.dll)
+      Found __imp_IsDebuggerPresent
+        Referenced in msvcrt.lib(utility_desktop.obj)
+        Loaded kernel32.lib(KERNEL32.dll)
+      Found __imp_GetStartupInfoW
+        Referenced in msvcrt.lib(utility_desktop.obj)
+        Loaded kernel32.lib(KERNEL32.dll)
+      Found __imp_GetModuleHandleW
+        Referenced in msvcrt.lib(utility_desktop.obj)
         Loaded kernel32.lib(KERNEL32.dll)
       Found __IMPORT_DESCRIPTOR_KERNEL32
         Referenced in kernel32.lib(KERNEL32.dll)
@@ -623,9 +407,6 @@ Processed /DEFAULTLIB:ucrt.lib
         Referenced in kernel32.lib(KERNEL32.dll)
         Loaded kernel32.lib(KERNEL32.dll)
     Searching C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\lib\x64\vcruntime.lib:
-      Found _purecall
-        Referenced in main.obj
-        Loaded vcruntime.lib(VCRUNTIME140.dll)
       Found memcmp
         Referenced in main.obj
         Loaded vcruntime.lib(VCRUNTIME140.dll)
@@ -655,24 +436,20 @@ Processed /DEFAULTLIB:ucrt.lib
         Referenced in main.obj
         Referenced in msvcrt.lib(gshandlereh4.obj)
         Loaded vcruntime.lib(VCRUNTIME140_1.dll)
-      Found __current_exception
-        Referenced in msvcrt.lib(ehvecdtr.obj)
-        Referenced in msvcrt.lib(utility_desktop.obj)
-        Loaded vcruntime.lib(VCRUNTIME140.dll)
-      Found __current_exception_context
-        Referenced in msvcrt.lib(ehvecdtr.obj)
-        Referenced in msvcrt.lib(utility_desktop.obj)
-        Loaded vcruntime.lib(VCRUNTIME140.dll)
       Found __C_specific_handler
-        Referenced in msvcrt.lib(ehvecdtr.obj)
-        Referenced in msvcrt.lib(utility.obj)
         Referenced in msvcrt.lib(exe_main.obj)
+        Referenced in msvcrt.lib(utility.obj)
         Loaded vcruntime.lib(VCRUNTIME140.dll)
       Found __std_type_info_destroy_list
         Referenced in msvcrt.lib(tncleanup.obj)
         Loaded vcruntime.lib(VCRUNTIME140.dll)
+      Found __current_exception
+        Referenced in msvcrt.lib(utility_desktop.obj)
+        Loaded vcruntime.lib(VCRUNTIME140.dll)
+      Found __current_exception_context
+        Referenced in msvcrt.lib(utility_desktop.obj)
+        Loaded vcruntime.lib(VCRUNTIME140.dll)
       Found __IMPORT_DESCRIPTOR_VCRUNTIME140
-        Referenced in vcruntime.lib(VCRUNTIME140.dll)
         Referenced in vcruntime.lib(VCRUNTIME140.dll)
         Referenced in vcruntime.lib(VCRUNTIME140.dll)
         Referenced in vcruntime.lib(VCRUNTIME140.dll)
@@ -698,12 +475,6 @@ Processed /DEFAULTLIB:ucrt.lib
       Found __imp__invalid_parameter_noinfo_noreturn
         Referenced in main.obj
         Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found __imp_cosf
-        Referenced in main.obj
-        Loaded ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
-      Found __imp_sinf
-        Referenced in main.obj
-        Loaded ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
       Found __imp_calloc
         Referenced in main.obj
         Loaded ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
@@ -722,46 +493,12 @@ Processed /DEFAULTLIB:ucrt.lib
       Found __imp__time64
         Referenced in main.obj
         Loaded ucrt.lib(api-ms-win-crt-time-l1-1-0.dll)
-      Found terminate
-        Referenced in msvcrt.lib(ehvecdtr.obj)
-        Referenced in msvcrt.lib(utility_desktop.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
       Found _callnewh
         Referenced in msvcrt.lib(new_scalar.obj)
         Loaded ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
       Found malloc
         Referenced in msvcrt.lib(new_scalar.obj)
         Loaded ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
-      Found _seh_filter_dll
-        Referenced in msvcrt.lib(utility.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found _configure_narrow_argv
-        Referenced in msvcrt.lib(utility.obj)
-        Referenced in msvcrt.lib(exe_main.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found _initialize_narrow_environment
-        Referenced in msvcrt.lib(utility.obj)
-        Referenced in msvcrt.lib(exe_main.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found _initialize_onexit_table
-        Referenced in msvcrt.lib(utility.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found _register_onexit_function
-        Referenced in msvcrt.lib(utility.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found _execute_onexit_table
-        Referenced in msvcrt.lib(utility.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found _crt_atexit
-        Referenced in msvcrt.lib(utility.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found _crt_at_quick_exit
-        Referenced in msvcrt.lib(utility.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found _cexit
-        Referenced in msvcrt.lib(utility.obj)
-        Referenced in msvcrt.lib(exe_main.obj)
-        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
       Found _seh_filter_exe
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
@@ -771,6 +508,14 @@ Processed /DEFAULTLIB:ucrt.lib
       Found __setusermatherr
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+      Found _configure_narrow_argv
+        Referenced in msvcrt.lib(exe_main.obj)
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+      Found _initialize_narrow_environment
+        Referenced in msvcrt.lib(exe_main.obj)
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
       Found _get_initial_narrow_environment
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
@@ -795,6 +540,10 @@ Processed /DEFAULTLIB:ucrt.lib
       Found __p___argv
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+      Found _cexit
+        Referenced in msvcrt.lib(exe_main.obj)
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
       Found _c_exit
         Referenced in msvcrt.lib(exe_main.obj)
         Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
@@ -813,6 +562,27 @@ Processed /DEFAULTLIB:ucrt.lib
       Found free
         Referenced in msvcrt.lib(delete_scalar.obj)
         Loaded ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+      Found _seh_filter_dll
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+      Found _initialize_onexit_table
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+      Found _register_onexit_function
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+      Found _execute_onexit_table
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+      Found _crt_atexit
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+      Found _crt_at_quick_exit
+        Referenced in msvcrt.lib(utility.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+      Found terminate
+        Referenced in msvcrt.lib(utility_desktop.obj)
+        Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
       Found __IMPORT_DESCRIPTOR_api-ms-win-crt-runtime-l1-1-0
         Referenced in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
         Referenced in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
@@ -837,11 +607,6 @@ Processed /DEFAULTLIB:ucrt.lib
         Referenced in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
         Referenced in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
         Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found __IMPORT_DESCRIPTOR_api-ms-win-crt-math-l1-1-0
-        Referenced in ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
-        Referenced in ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
-        Referenced in ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
-        Loaded ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
       Found __IMPORT_DESCRIPTOR_api-ms-win-crt-heap-l1-1-0
         Referenced in ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
         Referenced in ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
@@ -860,6 +625,9 @@ Processed /DEFAULTLIB:ucrt.lib
       Found __IMPORT_DESCRIPTOR_api-ms-win-crt-time-l1-1-0
         Referenced in ucrt.lib(api-ms-win-crt-time-l1-1-0.dll)
         Loaded ucrt.lib(api-ms-win-crt-time-l1-1-0.dll)
+      Found __IMPORT_DESCRIPTOR_api-ms-win-crt-math-l1-1-0
+        Referenced in ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        Loaded ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
       Found __IMPORT_DESCRIPTOR_api-ms-win-crt-stdio-l1-1-0
         Referenced in ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
         Referenced in ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
@@ -870,9 +638,6 @@ Processed /DEFAULTLIB:ucrt.lib
       Found api-ms-win-crt-runtime-l1-1-0_NULL_THUNK_DATA
         Referenced in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
         Loaded ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-      Found api-ms-win-crt-math-l1-1-0_NULL_THUNK_DATA
-        Referenced in ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
-        Loaded ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
       Found api-ms-win-crt-heap-l1-1-0_NULL_THUNK_DATA
         Referenced in ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
         Loaded ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
@@ -885,6 +650,9 @@ Processed /DEFAULTLIB:ucrt.lib
       Found api-ms-win-crt-time-l1-1-0_NULL_THUNK_DATA
         Referenced in ucrt.lib(api-ms-win-crt-time-l1-1-0.dll)
         Loaded ucrt.lib(api-ms-win-crt-time-l1-1-0.dll)
+      Found api-ms-win-crt-math-l1-1-0_NULL_THUNK_DATA
+        Referenced in ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        Loaded ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
       Found api-ms-win-crt-stdio-l1-1-0_NULL_THUNK_DATA
         Referenced in ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
         Loaded ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
@@ -993,39 +761,6 @@ Starting pass 2
      sfml-graphics.lib(sfml-graphics-2.dll)
      sfml-graphics.lib(sfml-graphics-2.dll)
      sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
-     sfml-graphics.lib(sfml-graphics-2.dll)
      sfml-window.lib(sfml-window-2.dll)
      sfml-window.lib(sfml-window-2.dll)
      sfml-window.lib(sfml-window-2.dll)
@@ -1034,8 +769,6 @@ Starting pass 2
      sfml-window.lib(sfml-window-2.dll)
      sfml-window.lib(sfml-window-2.dll)
      sfml-window.lib(sfml-window-2.dll)
-     sfml-window.lib(sfml-window-2.dll)
-     sfml-system.lib(sfml-system-2.dll)
      sfml-system.lib(sfml-system-2.dll)
      sfml-system.lib(sfml-system-2.dll)
      sfml-system.lib(sfml-system-2.dll)
@@ -1055,7 +788,6 @@ Starting pass 2
      msvcrt.lib(matherr.obj)
      msvcrt.lib(new_mode.obj)
      msvcrt.lib(thread_locale.obj)
-     msvcrt.lib(ehvecdtr.obj)
      msvcrt.lib(std_type_info_static.obj)
      msvcrt.lib(tncleanup.obj)
      msvcrt.lib(delete_scalar.obj)
@@ -1095,24 +827,6 @@ Starting pass 2
      msvcprt.lib(MSVCP140.dll)
      msvcprt.lib(MSVCP140.dll)
      msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
-     msvcprt.lib(MSVCP140.dll)
      kernel32.lib(KERNEL32.dll)
      kernel32.lib(KERNEL32.dll)
      kernel32.lib(KERNEL32.dll)
@@ -1134,7 +848,6 @@ Starting pass 2
      vcruntime.lib(VCRUNTIME140_1.dll)
      vcruntime.lib(VCRUNTIME140_1.dll)
      vcruntime.lib(VCRUNTIME140_1.dll)
-     vcruntime.lib(VCRUNTIME140.dll)
      vcruntime.lib(VCRUNTIME140.dll)
      vcruntime.lib(VCRUNTIME140.dll)
      vcruntime.lib(VCRUNTIME140.dll)
@@ -1188,8 +901,6 @@ Starting pass 2
      ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
      ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
      ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
-     ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
-     ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
      ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
      ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
      ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
