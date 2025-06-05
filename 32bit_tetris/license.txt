@@ -1,0 +1,40 @@
+      Tetris
+      License for use and distribution
+
+
+   1. All rights to Tetris are exclusively owned by the author
+      - Crystal Office Systems.
+
+   2. Crystal Office Systems grants a free non-exclusive license 
+      for use of this software.
+
+   3. The Tetris may be freely distributed, with exceptions 
+      noted below, provided the distribution package is not modified.
+
+   4. TETRIS IS DISTRIBUTED "AS IS".  NO WARRANTY OF ANY
+      KIND IS EXPRESSED OR IMPLIED.  YOU USE AT YOUR OWN RISK.
+      THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS
+      OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING
+      THIS SOFTWARE.
+
+   5. You may not use, copy, emulate, clone, rent, lease, sell, modify,
+      decompile, disassemble, otherwise reverse engineer, or transfer the
+      licensed program, or any subset of the licensed program, except as 
+      provided for in this agreement.  Any such unauthorized use shall 
+      result in immediate and automatic termination of this license and
+      may result in criminal and/or civil prosecution.
+
+      All rights not expressly granted here are reserved by 
+      Crystal Office Systems.
+
+   6. Installing and using Tetris signifies acceptance of these 
+      terms and conditions of the license.
+
+   7. If you do not agree with the terms of this license you must remove
+      Tetris files from your storage devices and cease to use 
+      the product.
+
+      Thank you for using Tetris.
+
+                                            Crystal Office Systems
+
